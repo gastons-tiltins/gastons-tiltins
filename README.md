@@ -1,5 +1,5 @@
 <h1>Hi 👋, my name is Gastons</h1>
-<h3>A passionate frontend developer</h3>
+<h3>I am a passionate web developer</h3>
 
 - 📫 You can contact me at **gastons.tiltins@gmail.com**
 
