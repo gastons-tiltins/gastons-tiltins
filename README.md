@@ -1,7 +1,9 @@
-<h1>Hi 👋, my name is Gastons</h1>
+<h1>Hi 👋, my name is Gastons!</h1>
 <h3>I'm a front-end programmer with insight into the back-end. I am mainly using TypeScript, HTML, CSS, React, and Redux. I have insights into Node.js, Express.js, MySQL, MongoDB, and other programming technologies. </h3>
 
 - 📫 You can contact me at **gastons.tiltins@gmail.com**
+<p> <a href="https://www.linkedin.com/in/gastons-tiltins/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" height="32" /></a>
+<br/>
 
 <h3>Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -34,5 +36,13 @@
 
 <h2>📈 Statistics:</h2>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gastons-tiltins&show_icons=true&locale=en&layout=compact" alt="gastons-tiltins" /></p>
-<br/>
+
 ---
+
+<h2>📝 Contact me:</h2>
+<p> <a href="https://www.linkedin.com/in/arvidsrozitis/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" height="32" /></a>
+<br/>
+
+[arvids.rozitis.cits@gmail.com](mailto:arvids.rozitis.cits@gmail.com)
+</p>
+<!--
