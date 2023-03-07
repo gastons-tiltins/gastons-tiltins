@@ -29,8 +29,6 @@
   
  ---
 
-
-<h2>📈 Statistics:</h2>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gastons-tiltins&show_icons=true&locale=en&layout=compact" alt="gastons-tiltins" /></p>
 
 ---
