@@ -18,7 +18,9 @@
 
 ---
 
-<h2>💼 Latest works<h2/>
+<h2>💼 Latest works:<h2/>
+
+[Countries Details - React, GraphQL](https://kastad.nu/countries/)
  
 [Recipes App Next.js](https://github.com/gastons-tiltins/22MD_Next.js_recipes_GT)
  
