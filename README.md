@@ -1,5 +1,5 @@
 <h1>Hi 👋, my name is Gastons!</h1>
-<h3>I'm a front-end programmer with insight into the back-end. Tools used TypeScript, HTML, CSS, React, Angular, Vue.js. I have insights into Node.js, Express.js, Next.js, MySQL, MongoDB, GraphQL and other programming technologies. </h3>
+<h3>I'm a front-end developer with insight into the back-end. Tools used TypeScript, HTML, CSS, React, Angular, Vue.js. I have insights into Node.js, Express.js, Next.js, MySQL, MongoDB, GraphQL and other programming technologies. </h3>
 
 <h3>Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
