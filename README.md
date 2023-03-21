@@ -26,10 +26,6 @@
 
 [Xylophone](https://scintillating-churros-8b1190.netlify.app/)
 
-[Recipes App Next.js](https://github.com/gastons-tiltins/22MD_Next.js_recipes_GT)
- 
-[React frontend with Redux](https://github.com/gastons-tiltins/20.1MD_React_frontend_Redux_GT)
- 
  ---
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gastons-tiltins&show_icons=true&locale=en&layout=compact" alt="gastons-tiltins" /></p>
