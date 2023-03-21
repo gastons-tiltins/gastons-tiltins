@@ -22,9 +22,9 @@
 
 [Countries Details - React, GraphQL](https://kastad.nu/countries/)
 
-[Xylophone](https://scintillating-churros-8b1190.netlify.app/)
- 
 [Memory Game](https://kastad.nu/memory-game/)
+
+[Xylophone](https://scintillating-churros-8b1190.netlify.app/)
 
 [Recipes App Next.js](https://github.com/gastons-tiltins/22MD_Next.js_recipes_GT)
  
