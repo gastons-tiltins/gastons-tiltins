@@ -1,10 +1,11 @@
 <h1>Hi 👋, my name is Gastons!</h1>
-<h3>I'm a front-end developer with insight into the back-end. Technologies used TypeScript, HTML, CSS, React, Angular, Vue.js. I have insights into Node.js, Express.js, Next.js, MySQL, MongoDB, GraphQL and other programming technologies. </h3>
+<h3>I'm a front-end developer with basic insight into the back-end. Technologies used TypeScript, HTML, CSS/SCSS, Angular, React, Vue.js. I have basic insights into Node.js, Express.js, Next.js, MySQL, MongoDB, GraphQL and other programming technologies. </h3>
 
 <h3>Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="36" height="36" alt="React" /></a>
 <a href="https://redux-toolkit.js.org/introduction/getting-started" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux Toolkit" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
