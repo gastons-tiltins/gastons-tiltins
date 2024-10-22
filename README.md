@@ -26,6 +26,8 @@
 
 [Xylophone](https://scintillating-churros-8b1190.netlify.app/)
 
+[Multiplication practice](https://kastad.nu/multiplication/)
+
 [Scandiweb Test Assignment](https://scandiweb.kastad.nu/)
 
  ---
