@@ -28,7 +28,7 @@
 
 [Multiplication practice](https://kastad.nu/multiplication/)
 
-[Scandiweb Test Assignment](https://scandiweb.kastad.nu/)
+<!-- [Scandiweb Test Assignment](https://scandiweb.kastad.nu/) -->
 
  ---
 
