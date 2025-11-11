@@ -4,7 +4,7 @@
 <h3>Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/drive/folders/1AI3DQBwfW0aVNtTjgbIDUpj4G3UekuTH/icon_angular_gradient_alt01.png" width="36" height="36" alt="Angular" /></a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://kastad.nu/angular_gradient.png" width="36" height="36" alt="Angular" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png" width="36" height="36" alt="Vue" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
