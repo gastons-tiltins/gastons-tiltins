@@ -1,9 +1,10 @@
-<h1>Hi 👋, my name is Gastons!</h1>
-<h3>I'm a front-end developer with basic insight into the back-end. Technologies used TypeScript, HTML, CSS/SCSS, Angular, React, Vue.js. I have basic insights into Node.js, Express.js, Next.js, MySQL, MongoDB, GraphQL and other programming technologies. </h3>
+<h1>Hi, I'm Gastons 👋</h1> <h3>A Frontend Developer with 3+ years specializing in Angular, building scalable web applications.</h3> 
+<h3>Currently focused on high-performance Angular applications while staying current across the JavaScript ecosystem, including React, Vue, and Node.js.</h3>
 
 <h3>Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://kastad.nu/angular_gradient.png" width="36" height="36" alt="Angular" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png" width="36" height="36" alt="Vue" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
