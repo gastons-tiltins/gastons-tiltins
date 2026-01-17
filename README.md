@@ -36,7 +36,7 @@
 
 ---
 
-<h2>📝 Contact me:</h2>
+<h2>Contact me:</h2>
 <p> <a href="https://www.linkedin.com/in/gastons-tiltins/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013-1.svg" height="32" /></a>
 <br/>
 
