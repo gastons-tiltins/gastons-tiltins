@@ -3,7 +3,6 @@
   Frontend Developer with 3+ years of experience specializing in Angular, building scalable and high-performance web applications.
 </h3>
 <h3>Currently, I'm focused on high-performance Angular applications while staying current across the JavaScript ecosystem, including React, Vue, and Node.js.</h3>
-
 <h3>Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -17,11 +16,9 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/swagger.png" alt="Swagger" width="40" height="40"/> 
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/swagger.png" alt="Swagger" width="40" height="40"/>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://cms-assets.recognizeapp.com/wp-content/uploads/2020/05/05175940/azure_logo_794_new.png" alt="Azure" width="40" height="40"/></a>
 <a href="https://www.kimai.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/981996?s=280&v=4" alt="Kimai" width="40" height="40"/></a> 
----
-
 <h2>💼 Latest works:<h2/>
 
 [Countries Details - React, GraphQL](https://kastad.nu/countries/)
