@@ -2,7 +2,8 @@
 <h3>
   Frontend Developer with 3+ years of experience specializing in Angular, building scalable and high-performance web applications.
 </h3>
-<h3>Currently, I'm focused on high-performance Angular applications while staying current across the JavaScript ecosystem, including React, Vue, and Node.js.</h3>
+<h3>While focused on Angular applications, I'm staying current across the JavaScript ecosystem, including React, Vue, and Node.js.</h3>
+---
 <h3>Languages and Tools:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -30,10 +31,6 @@
 [Multiplication practice](https://kastad.nu/multiplication/)
 
 <!-- [Scandiweb Test Assignment](https://scandiweb.kastad.nu/) -->
-
- ---
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gastons-tiltins&show_icons=true&locale=en&layout=compact" alt="gastons-tiltins" /></p>
 
 ---
 
