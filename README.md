@@ -2,7 +2,10 @@
 <h3>
   Frontend Developer with 3+ years of experience specializing in Angular, building scalable and high-performance web applications.
 </h3>
-<h3>While focused on Angular applications, I'm staying current across the JavaScript ecosystem, including React, Vue, and Node.js.</h3>
+<h3>
+  Mainly working with Angular, while also exploring and building with React and Vue.
+</h3>
+
 
 ---
 
